@@ -1,0 +1,19 @@
+Ticker;Description;Name;Normalize
+GC=F;Gold;XAUUSD;Y
+SI=F;Silver;XAGUSD;Y
+CL=F;Crude Oil;OIL;Y
+^GSPC;S&P500;SPY;Y
+^RUT;Russel 2000 Index;Russel;Y
+ZN=F;10 Yr US T-Note futures;US10Y;
+ZT=F;2 Yr US T-Note Futures;US2Y;
+PL=F;Platinum;Platinum;Y
+HG=F;Copper;Copper;Y
+DX=F;Dollar Index;DXY;
+^VIX;Volatility Index;VIX;
+EEM;MSCI EM ETF;EEM;
+EURUSD=X;Euro USD;EURUSD;
+^N100;Euronext100;Euronext100;
+^IXIC;Nasdaq;Nasdaq;Y
+LAC;LAC;LAC;Y
+AMD;AMD;AMD;Y
+NVDA;NVDA;NVDA;Y
